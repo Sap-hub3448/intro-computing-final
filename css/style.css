@@ -79,3 +79,16 @@ h2 {
 			padding: 8px;
 		}
 	}
+
+/* Video Player */
+
+video {
+	display: block;
+	width: 100%;
+	max-width: 800px;
+	margin: 25px auto;
+	border-radius: 10px;
+	background-color: #000000;
+	border: 2px solid #334155;
+	box-sizing: border-box;
+}
